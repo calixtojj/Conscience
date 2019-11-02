@@ -195,7 +195,6 @@ p {
   line-height: 1.929;
   font-size: 16px;
   margin-bottom: 0px;
-  color: #888888;
 }
 
 /* line 100, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
@@ -4681,6 +4680,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding-left: 30px;
   line-height: 1.82em !important;
+    color: #666;
 }
 
 /* line 459, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_elements.scss */
