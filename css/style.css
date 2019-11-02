@@ -3476,7 +3476,7 @@ ul {
 /* line 2, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_regervation_part.scss */
 .regervation_part {
   background-image: url("../img/reservation_bg.png");
-  background-position: center;
+  background-position: 25%;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
