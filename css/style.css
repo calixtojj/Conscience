@@ -197,6 +197,14 @@ p {
   margin-bottom: 0px;
 }
 
+p + P {
+    text-indent: 1.5em;
+}
+
+blockquote > p {
+    text-indent: 1em;
+}
+
 /* line 100, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
 h2 {
   font-size: 44px;
