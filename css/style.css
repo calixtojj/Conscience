@@ -5990,6 +5990,14 @@ h1, h2, h3, h4, h5, h6 {
   background-size: inherit;
 }
 
+.emdr_bg {
+  background-image: url("../img/emdr_bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: inherit;
+}
+
 /* line 6, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_breadcrumb.scss */
 .breadcrumb_part {
   position: relative;
