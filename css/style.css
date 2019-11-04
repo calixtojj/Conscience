@@ -5966,6 +5966,14 @@ h1, h2, h3, h4, h5, h6 {
   background-size: inherit;
 }
 
+.contact_bg {
+  background-image: url("../img/contact_bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: inherit;
+}
+
 .equipe_bg {
   background-image: url("../img/equipe_bg.png");
   background-position: center;
