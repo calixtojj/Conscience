@@ -2499,7 +2499,7 @@ ul {
 /**************** banner part css start ****************/
 /* line 2, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_banner.scss */
 .banner_part {
-  height: 935px;
+  height: 800px;
   position: relative;
   overflow: hidden;
   background-image: url(../img/banner_bg.png);
@@ -6317,4 +6317,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .direito {
     float: right;
+}
+
+.single_blog_item:hover h2 {
+    color: #fff !important;
+    transition: all 0.3s linear;
 }
