@@ -4671,7 +4671,7 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
-  height: 200px;
+  height: 500px;
 }
 
 /* line 449, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_elements.scss */
@@ -6349,3 +6349,5 @@ h1, h2, h3, h4, h5, h6 {
         display: block;
     }
 }
+
+
